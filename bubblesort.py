@@ -1,4 +1,4 @@
-import timeit
+#import timeit
 
 #code = """
 def swap(ord):
