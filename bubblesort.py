@@ -7,7 +7,10 @@ def swap(ord):
 	else:
 		return ord[1],ord[0]
 
-dataset = [5,4,3,2,1,9,8,6,4,5,2,10,11,24,693,3843,43282932,0]
+dataset = [
+#replace me with your dataset. This is of a list type.
+]
+
 counter = 0
 flag = False
 check = 0
